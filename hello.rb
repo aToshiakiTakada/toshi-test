@@ -1,1 +1,1 @@
-hoge
+puts "hoge"
